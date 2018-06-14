@@ -1,0 +1,11 @@
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\bin\Debug\netcoreapp2.0\yearbookHTMLpage.deps.json
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\bin\Debug\netcoreapp2.0\yearbookHTMLpage.runtimeconfig.json
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\bin\Debug\netcoreapp2.0\yearbookHTMLpage.runtimeconfig.dev.json
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\bin\Debug\netcoreapp2.0\yearbookHTMLpage.dll
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\bin\Debug\netcoreapp2.0\yearbookHTMLpage.pdb
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\obj\Debug\netcoreapp2.0\yearbookHTMLpage.csprojAssemblyReference.cache
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\obj\Debug\netcoreapp2.0\yearbookHTMLpage.csproj.CoreCompileInputs.cache
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\obj\Debug\netcoreapp2.0\yearbookHTMLpage.AssemblyInfoInputs.cache
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\obj\Debug\netcoreapp2.0\yearbookHTMLpage.AssemblyInfo.cs
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\obj\Debug\netcoreapp2.0\yearbookHTMLpage.dll
+C:\Users\sophb\Desktop\Repositories\YearbookPage\yearbookHTMLpage\obj\Debug\netcoreapp2.0\yearbookHTMLpage.pdb
