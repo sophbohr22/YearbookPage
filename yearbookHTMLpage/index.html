@@ -3,32 +3,40 @@
     .info {
         color: white;
         background-color: #AE483C;
-        font-size: 20px;
+        font-size: 22px;
         font-style: italic;
-        padding-right: 10px;
-        margin-left: 35px;
+        padding-right: 20px;
     }
 
     .redtext {
         color: #AE483C;
-        font-size: 90px;
+        font-size: 95px;
     }
 
     .tantext {
         color: #F3D7B0;
-        font-size: 40px;
+        font-size: 45px;
     }
 
     .greytext {
         color: #685A6D;
-        font-size: 70px;
+        font-size: 75px;
+    }
+
+    .boxImg {
+        height: 191px;
+        width: 191px;
     }
 
     #boyPainting {
+        width: 100%;
+        height: 100%;
     }
-
-    #rightBorder {
-
+    #textbox {
+        font-family:'Times New Roman';
+        margin-left: 80px;
+        margin-right: 50px;
+        font-size: 19px;
     }
 </style>
 
@@ -38,7 +46,7 @@
     <script src="bootstrap.js"></script>
 </head>
 
-<body>
+<body style="margin-left: 35px">
     <div class="row">
         <div class="col-md-5">
             <h1 align="right">
@@ -48,13 +56,54 @@
                 <span class="greytext">FINISH</span>
             </h1>
             <p align="right" class="info">One student's journey to share his perspective</p>
+            <p id="textbox" align="justify">
+                What’s the first thing that comes to your mind when you hear the word ‘cells’? <br />
+
+                &emsp;&emsp;For Stephen Wetter, it’s art. Wetter is BC’s first national gold key winner in 17 years,
+                and it hasn’t been without a lot of hard work. Throughout high school, he spent countless hours compiling
+                a large quantity of paintings and drawings to prove his skill and love for the arts. Wetter created and
+                finalized his nationally-ranked piece in Mrs. Scott’s class over the duration of Art Seminar with Ms.
+                Sarah Scott and named it "Cells." <br />
+
+                &emsp;&emsp;"It’s always a hard decision to decide which artwork I want to send off to get
+                judged,” Scott admitted. “It’s like picking a favorite child, but I knew that with Stephen
+                he truly had what it took." <br />
+
+                &emsp;&emsp;The process wasn’t very easy. The
+                piece was originally sent out and put on display in downtown Milwaukee at the Milwaukee
+                Public Art Museum, where after receiving multiple awards from local critics, it was sent
+                to be judged in New York City at the national level. This wait was agonizing for Wetter,
+                but the final award proved worth it. Winning this award meant that Stephen’s work was
+                considered by prestigious artists, writers, and professionals across the nation to be
+                among the top one percent of all young artists, an unimaginable honor. <br />
+
+                &emsp;&emsp;After Wetter’s
+                artwork won the most elite prize possible, it began a long two-year journey back to New
+                York, after a brief visit home, where it will travel from gallery to gallery around the
+                U.S. to display the true brilliance of the piece for museum-goers. With his piece traveling,
+                and the stress and anxiety from the judging over, Stephen continues to add to his ever growing
+                collection of art with a newfound confidence thanks to the success of a piece that some could say
+                wasn’t such a hard cell. <br />
+            </p>
+            <p id="textbox" align="right">
+                //HANNAH PEKSA
+            </p>
         </div>
-        <div class="col-md-5">
-            <img src="Peksa_FAE_-_40.jpg" id="boyPainting" />
+        <div class="col-md-6"> <!--style="margin-top:40px"-->
+            <img src="paintingWithBorder.JPG" id="boyPainting" />
         </div>
-        <div class="col-md-2">
-            <img src="rightBorder.JPG" id="rightBorder"/>
-        </div>
+    </div>
+
+    <div class="row">
+        <span>
+            <img src="art_img_4.jpg" class="boxImg"/>
+            <img src="art_img_5.jpg" class="boxImg"/>
+            <img src="art_img_6.jpg" class="boxImg"/>
+            <img src="art_img_7.jpg" class="boxImg"/>
+            <img src="art_img_8.jpg" class="boxImg"/>
+            <img src="art_img_9.jpg" class="boxImg"/>
+            <img src="art_img_10.jpg" class="boxImg"/>
+        </span>
     </div>
 
 </body>
